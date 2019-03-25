@@ -1,0 +1,12 @@
+<!--pages/home/home.wxml-->
+<view class='container'>
+    <view class='header'></view>
+    <view class="empty">你今天没有记账哦，记一笔</view>
+    <!-- <view class='content'>
+        <view wx:for="{{nowPay}}">
+          <icon></icon>
+        </view>
+    </view>
+    <view></view> -->
+
+</view>

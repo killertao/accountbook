@@ -1,0 +1,12 @@
+.bgimg {
+  background-image: url('http://img4.imgtn.bdimg.com/it/u=1210597411,1622262699&fm=26&gp=0.jpg');
+}
+
+.seconds {
+  position: fixed;
+  top: 200rpx;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  color: red;
+}

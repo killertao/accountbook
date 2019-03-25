@@ -1,0 +1,3 @@
+<view class='full-screen full-bgimg bgimg'>
+  <view class="seconds" wx-if="{{seconds>0}}">{{seconds}}后自动跳转</view>
+</view>
